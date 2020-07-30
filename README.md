@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Gean Kaminski from Brazil.
+My name is Gean Kaminski.
 
 Would you like to find me?
 
