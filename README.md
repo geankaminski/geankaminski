@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Gean Kaminski
 
-* I am a Full Stack Javascript Developer
+* I am a Javascript Developer
 * I have experience developing and managing web applications. 
 * Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks.
 
