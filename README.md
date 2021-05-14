@@ -1,9 +1,8 @@
 # Hi there 👋, my name is Gean Kaminski
 
 * I am a Javascript Developer
-* I have experience developing and managing web applications. 
+* I have experience developing and managing web applications with Nodejs. 
 * Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks (React & Vue).
-* Currently studying mobile development with Java & Kotlin.
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=geankaminski.geankaminski) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geankaminski&show_icons=true&theme=tokyonight) -->
