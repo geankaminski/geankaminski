@@ -1,8 +1,8 @@
 # Hi there 👋, my name is Gean Kaminski
 
-* I have experience developing and managing web applications with Node. 
 * Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks (Vue & React).
-
+* I have experience developing and managing web applications with Node. 
+* WebGL and Three.js enthusiast.
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=geankaminski.geankaminski) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geankaminski&show_icons=true&theme=tokyonight) -->
