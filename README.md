@@ -1,8 +1,8 @@
-# Hi there 👋, my name is Gean Kaminski
+# Hi there, my name is Gean Kaminski 🙃
 
-* Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks (Vue & React).
-* I have experience developing and managing web applications with Node. 
-* WebGL and Three.js enthusiast.
+* I'm a Front-end developer, working mainly with Vue and React.
+* I have experience developing web applications and websites. 
+* Three.js and Blockchain enthusiast.
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=geankaminski.geankaminski) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geankaminski&show_icons=true&theme=tokyonight) -->
