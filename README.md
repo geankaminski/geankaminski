@@ -2,7 +2,7 @@
 
 * I'm a Front-end developer, working mainly with Vue and React.
 * I have experience developing web applications and websites. 
-* Three.js and Blockchain enthusiast.
+* WebGL and Three.js enthusiast.
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=geankaminski.geankaminski) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geankaminski&show_icons=true&theme=tokyonight) -->
