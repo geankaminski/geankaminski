@@ -6,7 +6,7 @@
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=geankaminski.geankaminski) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geankaminski&show_icons=true&theme=tokyonight) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geankaminski&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geankaminski&theme=tokyonight)  -->
  
 
 # Contact me
